@@ -1,11 +1,11 @@
 import tweepy
 from textblob import TextBlob
 
-# Question 1:
+# C'est quoi l'analyse des sentiments ?
 """L'analyse de sentiment (ou sentiment analysis en anglais) est le processus qui consiste
 # à déterminer l'opinion, le jugement et l'émotion qui se cache derrière le langage naturel."""
 
-# Quuestion 2:
+# Pourquoi utilise t-on l'analyse des sentiments ?
 """L'analyse de sentiment se révèle redoutablement utile lorsque vous êtes face à un grand volume de données
 textuelles et que vous devez en extraire des informations et les généraliser. En effet, si nos cerveaux
 humains sont tout à fait capables de comprendre les sentiments qui se cachent derrière des énoncés, nous
